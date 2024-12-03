@@ -10,7 +10,7 @@
 
 #### With a career spanning technical support to advanced security engineering, I bring a deep understanding of IT systems, threat detection, and response strategies. I thrive on analyzing security incidents, develop detection rules, and integrating diverse data sources to enrich alert intelligence.
 
-#### Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab, exploring SIEM and threat intelligence tools. Continuous learning drives me, with ongoing training in threat intelligence, detection engineering, log management, network exploitation to refine my craft. Learning platforms like TryHackMe has helped me advance my career.
+#### Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab. Continuous learning drives me, with ongoing training in threat intelligence, detection engineering, log management, network exploitation to refine my craft. Learning platforms like TryHackMe has helped me advance my career.
 
 #### Let’s connect and secure the future together! <br />
 <br />
