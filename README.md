@@ -2,7 +2,13 @@
 
 <br />
 
-### Experienced curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel and Defender XDR, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.<br />
+### As a passionate Security Operations Analyst with a solid foundation in IT infrastructure and cybersecurity, I specialize in building tailored solutions to protect organizations against emerging threats. With expertise in Azure Sentinel, I craft custom detection rules and queries that turn complex business needs into actionable security measures. My proactive approach ensures the continual refinement of detection methods to stay ahead of evolving trends.
+
+With a career spanning technical support to advanced security engineering, I bring a deep understanding of IT systems, threat detection, and response strategies. I thrive on analyzing security incidents, developing automated workflows, and integrating diverse data sources to enrich alert intelligence.
+
+Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab, exploring SIEM and threat intelligence tools. Continuous learning drives me, with ongoing training in threat intelligence, detection engineering, and log management to refine my craft.
+
+Let’s connect and secure the future together! <br />
 <br />
 
 ### Repositories
