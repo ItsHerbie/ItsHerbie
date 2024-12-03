@@ -8,7 +8,7 @@
 
 #### Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab, exploring SIEM and threat intelligence tools. Continuous learning drives me, with ongoing training in threat intelligence, detection engineering, and log management to refine my craft.
 
-Let’s connect and secure the future together! <br />
+#### Let’s connect and secure the future together! <br />
 <br />
 
 ### Repositories
